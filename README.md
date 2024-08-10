@@ -7,7 +7,7 @@ class GerazCars{
     this.hobbie = "I like data analysis and developing tools that make our day-to-day life easier."
     this.work = "Training instructor with great enthusiasm for human capital formation"
     this.githubStatus = "GerazCars"
-    this.stack = [vba, js, node, html, css, python, R]
+    this.stack = [vba, python, R, js, node, html, css]
   }
 }
 ```
