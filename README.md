@@ -11,8 +11,3 @@ class GerazCars{
   }
 }
 ```
-
-<a href="https://github.com/unciafidelis">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=GerazCars">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GerazCars">
-</a>
